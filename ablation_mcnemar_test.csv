@@ -1,0 +1,12 @@
+vs_Baseline,b,c,p_value,Significant
+A1: CNN only,39,71,0.00294,**
+A2: DenseNet121 only,34,22,0.1409,ns
+A3: ViT only,32,37,0.63046,ns
+A4: CNN + DenseNet,38,27,0.21454,ns
+A5: CNN + ViT,27,33,0.51896,ns
+A6: DenseNet + ViT,22,15,0.32401,ns
+A7: Full Fusion (no selection),23,15,0.25588,ns
+A8: Full Fusion + PCA,35,45,0.31431,ns
+A9a: LASSO,24,39,0.07693,ns
+A9b: RFE,26,19,0.3713,ns
+A10: NSGA-II + Full Fusion,22,18,0.63583,ns
