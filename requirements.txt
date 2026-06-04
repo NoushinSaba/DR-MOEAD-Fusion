@@ -1,0 +1,15 @@
+tensorflow
+torch
+transformers
+numpy
+pandas
+opencv-python
+matplotlib
+seaborn
+scikit-learn
+lightgbm
+imbalanced-learn
+pymoo
+shap
+captum
+tqdm
