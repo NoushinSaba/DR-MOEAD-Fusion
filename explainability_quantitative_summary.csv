@@ -1,0 +1,6 @@
+Grade,DR Severity,Expected Lesions,Insertion AUC (↑),Deletion AUC  (↓),Faithfulness Score
+0,No DR (G0),No visible lesions,0.8911,0.7304,0.1608
+1,Mild (G1),Microaneurysms only,0.9163,0.7723,0.144
+2,Moderate (G2),Microaneurysms + Haemorrhages + Hard Exudates,0.9572,0.8459,0.1113
+3,Severe (G3),Haemorrhages + Hard Exudates + Cotton-Wool Spots,0.86,0.7381,0.1219
+4,Proliferative (G4),Neovascularisation + Vitreous Haemorrhage + Fibrous Proliferation,0.7986,0.7334,0.0652
